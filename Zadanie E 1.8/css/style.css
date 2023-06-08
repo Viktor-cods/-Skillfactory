@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style> 
+h1 {color:  rgb(19, 35, 182)}
+p  {color: rgb(24, 182, 19)}
+</style>
+    <style>
+      body {
+        margin: 0;
+      }
+.navigation{
+    float: right;
+    height: 100%;
+}
+ 
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 25px;
+    background-color: #156bce;
+}
+ 
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 30px;
+    color: rgb(211, 214, 13);
+}
+ 
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+</style>
+</head>
+
+<body>
+  <div class="red">
+    <div class="blue"></div>
+  </div>
+</body>
+</html>
